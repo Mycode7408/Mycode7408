@@ -1,6 +1,6 @@
 ### Hi developers 👋 This is Mahmood Ahmad khan
 
-### An Software Engineer(Android) @Matrack.
+### I am a  Software Engineer(Android) @Matrack.
 
 An android developer,UI/UX designer and Graphic designer, ability to transcribe any UI on android, good command of modern tools/technologies in android development, meticulous , respects the rules of good  development. I like to go ahead, innovate, and propose ideas to advance a project.
 
