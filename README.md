@@ -21,9 +21,7 @@ An android developer,UI/UX designer and Graphic designer, ability to transcribe 
 
 * I love books.
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Mycode7408)](https://github.com/stats-organization/github-stats-extended)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mycode7408&theme=android-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-stats-extended.vercel.app/api?username=Mycode7408&rank_icon=github&show_icons=true&include_all_commits=true&theme=transparent)
 
 
 
